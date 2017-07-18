@@ -79,6 +79,9 @@ fun main(args: Array<String>) {
     val country: String? = null
     println(country ?: "Unknown")
 
+    // 8b. Safe call
+    val length: Int? = country?.length
+
 
 
 
