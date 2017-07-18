@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":kotlin-http4k-example" external.linked.project.path="$MODULE_DIR$/../../../kotlin-http4k-example" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="kotlin-intro" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../kotlin-http4k-example">
+      <excludeFolder url="file://$MODULE_DIR$/../../../kotlin-http4k-example/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../kotlin-http4k-example/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="kotlin-dropwizard-example_main" target="1.8" />
+      <module name="kotlin-dropwizard-example_test" target="1.8" />
+      <module name="kotlin-http4k-example_main" target="1.8" />
+      <module name="kotlin-http4k-example_test" target="1.8" />
+      <module name="kotlin-intro-js_main" target="1.8" />
+      <module name="kotlin-intro-js_test" target="1.8" />
+      <module name="kotlin-intro-jvm_main" target="1.8" />
+      <module name="kotlin-intro-jvm_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

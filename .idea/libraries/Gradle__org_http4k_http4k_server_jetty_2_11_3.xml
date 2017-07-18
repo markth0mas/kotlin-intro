@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.http4k:http4k-server-jetty:2.11.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.http4k/http4k-server-jetty/2.11.3/bb48f84f89efc4b6cb96949f6d9612888b45a386/http4k-server-jetty-2.11.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.http4k/http4k-server-jetty/2.11.3/51f4dc8fa00a7a1e8a7448552aa20987fe69d455/http4k-server-jetty-2.11.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

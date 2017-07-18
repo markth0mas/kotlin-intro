@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin-dropwizard-example/kotlin-dropwizard-example.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin-dropwizard-example/kotlin-dropwizard-example.iml" group="kotlin-dropwizard-example" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin-dropwizard-example/kotlin-dropwizard-example_main.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin-dropwizard-example/kotlin-dropwizard-example_main.iml" group="kotlin-dropwizard-example" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin-dropwizard-example/kotlin-dropwizard-example_test.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin-dropwizard-example/kotlin-dropwizard-example_test.iml" group="kotlin-dropwizard-example" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin-http4k-example/kotlin-http4k-example.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin-http4k-example/kotlin-http4k-example.iml" group="kotlin-http4k-example" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin-http4k-example/kotlin-http4k-example_main.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin-http4k-example/kotlin-http4k-example_main.iml" group="kotlin-http4k-example" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin-http4k-example/kotlin-http4k-example_test.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin-http4k-example/kotlin-http4k-example_test.iml" group="kotlin-http4k-example" />
+      <module fileurl="file://$PROJECT_DIR$/kotlin-intro.iml" filepath="$PROJECT_DIR$/kotlin-intro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin-intro-js/kotlin-intro-js.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin-intro-js/kotlin-intro-js.iml" group="kotlin-intro-js" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin-intro-js/kotlin-intro-js_main.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin-intro-js/kotlin-intro-js_main.iml" group="kotlin-intro-js" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin-intro-js/kotlin-intro-js_test.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin-intro-js/kotlin-intro-js_test.iml" group="kotlin-intro-js" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin-intro-jvm/kotlin-intro-jvm.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin-intro-jvm/kotlin-intro-jvm.iml" group="kotlin-intro-jvm" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin-intro-jvm/kotlin-intro-jvm_main.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin-intro-jvm/kotlin-intro-jvm_main.iml" group="kotlin-intro-jvm" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin-intro-jvm/kotlin-intro-jvm_test.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin-intro-jvm/kotlin-intro-jvm_test.iml" group="kotlin-intro-jvm" />
+    </modules>
+  </component>
+</project>
