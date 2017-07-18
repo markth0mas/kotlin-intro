@@ -13,12 +13,21 @@ import org.http4k.lens.Path
 import org.http4k.lens.int
 import org.http4k.routing.bind
 import org.http4k.routing.routes
+import org.http4k.server.Http4kServer
 import org.http4k.server.Jetty
 import org.http4k.server.asServer
 
 data class Contact(val id: Int?, val name: String)
 
 fun main(args: Array<String>) {
+    contactsAppServer().startAndBlock()
+}
+
+fun contactsAppServer(port: Int = 8090): Http4kServer {
+    return contactsApp().asServer(Jetty(port))
+}
+
+fun contactsApp(): HttpHandler {
     val contacts = mutableListOf<Contact>(
             Contact(0, "Mark Thomas")
     )
@@ -27,7 +36,7 @@ fun main(args: Array<String>) {
     val contactsLens = Body.auto<List<Contact>>().toLens()
     val contactLens = Body.auto<Contact>().toLens()
 
-    val httpHandler = DebuggingFilters
+    return DebuggingFilters
             .PrintRequestAndResponse()
             .then(ServerFilters.CatchLensFailure)
             .then(routes(
@@ -44,8 +53,6 @@ fun main(args: Array<String>) {
                         Response(CREATED).header("Location", request.uri.pathWith(idOfNewContact.toString()))
                     }
             ).withBasePath("/contacts"))
-
-    httpHandler.asServer(Jetty(8090)).startAndBlock()
 }
 
 private fun Uri.pathWith(extension: String, separator: Char = '/') =
