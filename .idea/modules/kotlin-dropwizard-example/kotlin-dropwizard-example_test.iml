@@ -26,7 +26,7 @@
     </facet>
   </component>
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
-    <output-test url="file://$MODULE_DIR$/../../../kotlin-dropwizard-example/build/classes/test" />
+    <output-test url="file://$MODULE_DIR$/../../../kotlin-dropwizard-example/out/test/classes" />
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../kotlin-dropwizard-example/src/test">
       <sourceFolder url="file://$MODULE_DIR$/../../../kotlin-dropwizard-example/src/test/java" isTestSource="true" />

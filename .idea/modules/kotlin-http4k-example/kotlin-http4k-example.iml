@@ -5,6 +5,7 @@
     <content url="file://$MODULE_DIR$/../../../kotlin-http4k-example">
       <excludeFolder url="file://$MODULE_DIR$/../../../kotlin-http4k-example/.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/../../../kotlin-http4k-example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../kotlin-http4k-example/out" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

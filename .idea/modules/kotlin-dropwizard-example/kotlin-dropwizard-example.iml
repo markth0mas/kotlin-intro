@@ -5,6 +5,7 @@
     <content url="file://$MODULE_DIR$/../../../kotlin-dropwizard-example">
       <excludeFolder url="file://$MODULE_DIR$/../../../kotlin-dropwizard-example/.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/../../../kotlin-dropwizard-example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../kotlin-dropwizard-example/out" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
