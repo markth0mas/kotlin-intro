@@ -9,7 +9,7 @@ There are four modules so far, in suggested reading order:
 | kotlin-intro-js           | JS     | For downloading images of Cats :-)  Demonstrates async code and co-routines.
 | kotlin-http4k-example     | JVM    | Dropwizard example re-written using http4k to show how a different approach using function composition in a library built with Kotlin in mind.
 
-## Starting JS example
+## Starting the JS example
 
 There are runners for the JVM examples in IntelliJ.  To start the JS example, 
 drop to a command prompt with 'npm' in the path and run '../gradlew run' in
